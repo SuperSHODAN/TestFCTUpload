@@ -2,6 +2,9 @@
   "posts": [
     { "id": 1, "title": "test" }
     ],
+  "files": [
+    { "filename": "test", "extension": ".txt" }
+    ],
   "comments": [],
   "profile": {
     "name":"SuperSHODAN"
