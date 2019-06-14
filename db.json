@@ -1,8 +1,9 @@
 {
-  "files": [
-    {
-      "filename": "test",
-      "extension": ".txt"
-    }
-    ]
+  "posts": [
+    { "id": 1, "title": "test" }
+    ],
+  "comments": [],
+  "profile": {
+    "name":"SuperSHODAN"
+  }
 }
